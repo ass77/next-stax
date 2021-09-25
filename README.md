@@ -1,6 +1,6 @@
 # nextjs-datastax
 
-## Prereq: Need to setup own astradb datastax (how to)
+### Prerequisite: Need to setup astradb datastax
 [Getting started with Datastax AstraDb](https://www.youtube.com/watch?v=MBGPLgbiKkY)
 
 ### install dependencies
