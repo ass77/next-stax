@@ -9,8 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@astrajs/collections": "^0.1.0",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@material-ui/icons": "^4.11.2",
+    "@mui/material": "^5.0.1",
+    "axios": "^0.21.4",
+    "bootstrap": "^5.1.1",
     "next": "11.1.2",
     "react": "17.0.2",
+    "react-bootstrap": "^2.0.0-rc.0",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
