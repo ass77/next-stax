@@ -73,7 +73,7 @@ export default function Home() {
         `http://localhost:3000/api/members?keyword=${keyword}`
       );
       console.log(response.data, "concating data");
-      setData(response.data);
+      // setData(response.data);
     } catch (error) {
       console.log(error);
     }
